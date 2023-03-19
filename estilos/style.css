@@ -94,6 +94,8 @@ section.imagem > p {
 section#img01 {
     background-image: url('../imagens/background001.jpg');
     background-position: right center;
+    width: 100%;
+    height: auto;
     
 
 }
